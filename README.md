@@ -107,10 +107,10 @@ This will open the frontend on your browser.
 
 | Model Type | Algorithm | Metrics |
 |---|---|---|
-| Demand Forecast (Regression) | Linear Regression | MAE: TBD, RMSE: TBD |
-| Demand Forecast (Regression) | Random Forest | MAE: TBD, RMSE: TBD |
-| Anomaly Detection (Classification) | Decision Tree | Accuracy: TBD |
-| Anomaly Detection (Classification) | Random Forest | Accuracy: TBD |
+| Demand Forecast (Regression) | Linear Regression | MAE: 7.97, RMSE: 10.13 |
+| Demand Forecast (Regression) | Random Forest | MAE: 10.14, RMSE: 12.66 |
+| Anomaly Detection (Classification) | Decision Tree | Accuracy: 83.75% |
+| Anomaly Detection (Classification) | Random Forest | Accuracy:  92.50% |
 
 ## File Structure
 
