@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Datasets and generated files
+data/
+*.csv
+
+# Executables
+*.exe
+python-installer.exe
+
+# VS Code / IDE
+.vscode/
+.idea/
